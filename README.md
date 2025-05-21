@@ -5,7 +5,7 @@ Hello .Welcome to Md.Romzan Ali Task for second Source
 
 
 git clone  https://github.com/MdRomzanAli/secondSource
-cd laravel-task-api
+cd secondSource
 
 
 ### 2. Install Dependencies
