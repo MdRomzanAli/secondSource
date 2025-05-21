@@ -4,7 +4,7 @@ Hello .Welcome to Md.Romzan Ali Task for second Source
 ### 1. Clone the Repository
 
 
-git clone https://github.com/yourusername/laravel-task-api.git
+git clone  https://github.com/MdRomzanAli/secondSource
 cd laravel-task-api
 
 
